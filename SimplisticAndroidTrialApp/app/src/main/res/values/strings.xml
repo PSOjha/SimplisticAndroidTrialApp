@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrialApp</string>
+    <string name="text">It is 30 Days Trail App</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
